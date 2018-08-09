@@ -1,0 +1,25 @@
+{
+  "name": "es6-samples",
+  "version": "1.0.0",
+  "description": "Demos using es6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjgartendev/es6-samples.git"
+  },
+  "keywords": [
+    "es6",
+    "javascript",
+    "js",
+    "es6-javascript"
+  ],
+  "author": "Michael Garten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjgartendev/es6-samples/issues"
+  },
+  "homepage": "https://github.com/mjgartendev/es6-samples#readme"
+}
